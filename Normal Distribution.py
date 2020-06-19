@@ -65,7 +65,7 @@ forc.grid(row=0, column=3, columnspan=1)
 
 ford = Entry(root, width=35)
 ford.grid(row=2, column=1, columnspan=1)
-ford.insert(0, "Enter the size of the table")
+ford.insert(0, "Enter the range of x")
 
 
 def rvsChanger(number):
